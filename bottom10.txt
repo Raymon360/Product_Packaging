@@ -1,0 +1,11 @@
+"Nama.Produk","Jumlah"
+"Celana Jeans Sobek Pria",9
+"Tas Kosmetik",11
+"Stripe Pants",19
+"Pelembab",24
+"Tali Ban Ikat Pinggang",27
+"Baju Renang Pria Anak-anak",32
+"Hair Dye",46
+"Atasan Baju Belang",56
+"Tas Sekolah Anak Perempuan",71
+"Dompet Unisex",75
